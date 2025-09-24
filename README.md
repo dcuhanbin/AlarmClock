@@ -27,7 +27,5 @@ Swift와 Storyboard를 이용해 제작한 간단한 알람 시계 앱입니다.
 
 ---
 
-## 🚀 실행 방법
-1. 저장소 클론
-   ```bash
-   git clone https://github.com/dcuhanbin/AlarmClock.git
+📌 저장소 URL
+👉 https://github.com/dcuhanbin/AlarmClock
